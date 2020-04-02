@@ -40,14 +40,14 @@
 .mathquillggb-rendered-math .text,
 .mathquillggb-rendered-math .nonSymbola {
   /*font-family: geogebra-serif, "Times New Roman", serif;*/
- 
+  /*line-height: .9;*/
 }
 .mathquillggb-rendered-math * {
   font-size: inherit;
   line-height: inherit;
   margin: 0;
   padding: 0;
-  border-color: none;/* Is this line needed? */
+  border-color: black;/* Is this line needed? */
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
